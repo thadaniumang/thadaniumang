@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Umang Thadani**, an *Engineering Intern* at **Zuddl** and a final year IT student at *K. J. Somaiya College of Engineering*, from *Mumbai*. I'm passionate about solving real-world problems by leveraging technology and applying my problem-solving skills.
+I'm **Umang Thadani**, a *Software Engineer* at **J. P. Morgan Chase**. I'm passionate about solving real-world problems by leveraging technology and applying my problem-solving skills.
 
 ## 🔧 Technologies & Tools
 
